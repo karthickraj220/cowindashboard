@@ -1,0 +1,60 @@
+.covid-background {
+  min-height: 100vh;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.covid-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 75%;
+  max-width: 1000px;
+  padding: 20px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.logo-name {
+  color: #2cc6c6;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: 30px;
+}
+.logo-image {
+  height: 70px;
+}
+.covid-heading {
+  color: #cbd5e1;
+  margin-top: 0px;
+}
+.failure-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  min-height: 400px;
+}
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  min-height: 400px;
+}
+.failure-message {
+  color: #ffffff;
+  font-size: 40px;
+}
+.failure-image {
+  height: 450px;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.container {
+  background-color: #1c1c2b;
+  margin-bottom: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+.heading {
+  color: #cbd5e1;
+}
